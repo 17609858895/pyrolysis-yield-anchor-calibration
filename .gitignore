@@ -1,0 +1,9 @@
+/raw/
+/data_clean/
+/tables/
+/results/
+/figures/
+/catboost_info/
+__pycache__/
+*.py[cod]
+.venv/
